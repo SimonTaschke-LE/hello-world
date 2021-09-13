@@ -2,4 +2,4 @@
 Just another repository
 
 BlaBlaBla
-trigger Jenkins!!!
+trigger Jenkins!
